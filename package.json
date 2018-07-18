@@ -1,0 +1,13 @@
+{
+  "name": "playground-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YunS-Stacy/playground-nextjs.git",
+  "author": "Yun Shi <shiyun_stacy@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
